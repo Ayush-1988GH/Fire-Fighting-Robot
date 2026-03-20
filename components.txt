@@ -1,0 +1,21 @@
+Arduino UNO R3 #
+USB Cable (A to B) #
+IR Flame Sensor Module #
+ESP32-CAM #
+Ultrasonic Sensor (HC-SR04) #
+Servo Motor (SG90) #
+Servo MG995 #
+Buzzer (Active) #
+Temperature Sensor #
+L298N Motor Driver Module #
+12V Mini Submersible Water Pump #
+Water Tube/Hose #
+Relay Module (Single Channel 5V) #
+Nozzle #
+Small Water Tank #
+Li-Ion Batteries (18650)
+
+
+
+
+
