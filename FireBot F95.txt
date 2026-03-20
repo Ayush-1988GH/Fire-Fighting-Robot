@@ -1,0 +1,86 @@
+﻿🔥 FireBot F95 - Complete Step-by-Step Build & Working Procedure
+
+Step 1: Understanding the System 
+Before building, the team reviews the complete working of FireBot F95.
+* FireBot continuously scans its surroundings using flame and infrared sensors.
+* When fire is detected, it identifies the direction and center (centroid).
+* The robot moves toward the fire while avoiding obstacles.
+* A water jet sprinkler is activated to extinguish the fire.
+* Alerts are generated and monitoring data is displayed.
+This ensures all team members share a common understanding.
+
+Step 2: Finalizing Components & Layout 
+The team finalizes all components and their placement:
+* Chassis at the base
+* Motors and wheels on sides
+* Battery and controller at center
+* Flame sensors placed around the robot for 360° detection
+* Ultrasonic sensor at the front
+* Water tank and pump on the upper platform
+* Servo-mounted nozzle at the front/top
+A rough hand-drawn layout is sufficient.
+
+Step 3: Assembling the Base Structure 
+* Fix motors firmly to the chassis.
+* Attach wheels and ensure free rotation.
+* Mount battery and motor driver securely.
+* Verify that the robot moves straight and turns correctly.
+At this stage, the robot should move smoothly when powered.
+
+Step 4: Building the Upper Body 
+* Construct a lightweight box using cardboard or thermocol.
+* Provide openings for sensors, nozzle, and wiring.
+* Line inner surfaces with aluminium foil for heat protection.
+* Secure the water tank and pump to avoid vibration.
+The body should be stable, lightweight, and accessible.
+
+Step 5: Sensor Installation & Wiring 
+* Install flame sensors around the robot for full coverage.
+* Fix ultrasonic sensor at front for obstacle detection.
+* Mount infrared / temperature sensor for heat intensity sensing.
+* Add buzzer and indicator LEDs.
+* Complete wiring carefully and label connections.
+Ensure no loose wires or short circuits.
+
+Step 6: Controller Programming & Logic Development 
+* Upload base motor control code to Arduino.
+* Add logic for:
+o Fire detection
+o Direction determination
+o Obstacle avoidance
+* Implement centroid-based targeting so the nozzle aligns with fire center.
+* Program pump activation and servo control.
+* Add manual override using Bluetooth (optional).
+Test each logic section independently.
+
+Step 7: Fire Extinguishing Mechanism Setup 
+* Connect pump through relay module.
+* Align nozzle using servo motor.
+* Adjust water flow rate to avoid splashing.
+* Ensure water reaches flame safely and accurately.
+Test with small controlled flames only.
+
+Step 8: Alerts & Monitoring Integration 
+* Configure buzzer to activate on fire detection.
+* Display temperature level and fire intensity.
+* Monitor water percentage and alert when low.
+* Enable live camera feed and night vision (if included).
+* Configure mobile alerts if supported.
+This improves awareness and safety.
+
+Step 9: Testing, Debugging & Optimization 
+* Test movement without fire.
+* Test fire detection sensitivity.
+* Test obstacle avoidance accuracy.
+* Test extinguishing performance.
+* Adjust delays, speed, and sensor thresholds.
+Repeat tests until performance is reliable.
+
+Step 10: Final Demonstration Preparation 
+* Clean wiring and secure all components.
+* Prepare PPT and explanation flow.
+* Practice live demo sequence.
+* Assign speaking points for presentation.
+* Ensure safety measures during demo.
+The robot should be stable, predictable, and safe.
+
