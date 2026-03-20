@@ -2,8 +2,8 @@ Component	               Component Pin	        Arduino Pin
 Motor driver (L298N)	      IN3	                    D10	
 Motor driver (L298N)	      IN4	                    D11
 Motor driver (L298N)	      ENB	                    D8	
-Relay module	             	Signal	                D7	
-Buzzer			                +	                      D12
+Relay module	            Signal	                D7	
+Buzzer			              +	                      D12
 Flame sensor 1		          D0	                    D2
 Flame sensor 2		          D0	                    D3
 Flame sensor 3		          D0	                    D4
