@@ -11,6 +11,6 @@ Flame sensor 4		          D0	                    D5
 Flame sensor 5		          D0	                    D6
 Servo motor		              Signal	                D9	
 Smoke sensor (MQ-2)	          D0	                    A0
-Built-in LED		         —	                D13 (onboard)
-All VCC pins		         —    	                  5V
-All GND pins		         —	                     GND
+Built-in LED		           —	                D13 (onboard)
+All VCC pins		           —    	                  5V
+All GND pins		           —	                     GND
