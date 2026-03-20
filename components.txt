@@ -13,9 +13,4 @@ Water Tube/Hose #
 Relay Module (Single Channel 5V) #
 Nozzle #
 Small Water Tank #
-Li-Ion Batteries (18650)
-
-
-
-
-
+Li-Ion Batteries 18650 X 3
